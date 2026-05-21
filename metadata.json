@@ -1,0 +1,8 @@
+{
+  "name": "Sujo Indian",
+  "description": "Premium Indian Fashion & Clothing. Wear India. Own the Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
